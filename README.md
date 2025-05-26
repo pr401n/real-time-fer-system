@@ -61,10 +61,3 @@ It detects and classifies **seven human emotions** from multiple faces at once, 
 
 ---
 
-## 📦 Installation & Setup
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/yourusername/Facial-Emotion-detection-webcam.git
-cd Facial-Emotion-detection-webcam
