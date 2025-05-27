@@ -1,6 +1,6 @@
 # 😃 Facial Emotion Detection via Webcam
 
-A real-time multi-face emotion detection system using live webcam footage. This project uses a custom-trained deep learning model to recognize facial expressions of multiple people simultaneously.
+A real-time multi-face emotion detection system using live webcam footage and a streamlit UI. This project uses a custom-trained deep learning model to recognize facial expressions of multiple people simultaneously.
 
 ---
 
