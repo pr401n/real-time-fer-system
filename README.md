@@ -11,6 +11,7 @@ This project performs **real-time facial emotion detection** using live webcam i
 - A **custom-trained deep learning model**, trained on the **Kaggle Facial Expression Recognition (FER-2013) dataset**
 - **OpenCV** for real-time video capture and face detection
 - **TensorFlow/Keras** for deep learning and emotion classification
+- **Streamlit** for user interface
 
 It detects and classifies **seven human emotions** from multiple faces at once, displaying results live on the video stream.
 
