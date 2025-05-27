@@ -32,7 +32,7 @@ st.markdown("""
     """, unsafe_allow_html=True)
 
 # Title and description
-st.title("🎭 Real-time Emotion Detection")
+st.title("🎭 Real-time FER")
 st.markdown("""
     <div style='margin-bottom: 20px;'>
         This application detects emotions in real-time using your webcam.
