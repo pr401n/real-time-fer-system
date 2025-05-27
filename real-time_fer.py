@@ -178,6 +178,6 @@ with st.sidebar:
     st.markdown("""
     This application uses:
     - OpenCV for face detection
-    - A pre-trained CNN for emotion classification
+    - A Custom-trained CNN for emotion classification
     - Streamlit for the web interface
     """)
