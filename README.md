@@ -60,4 +60,3 @@ It detects and classifies **seven human emotions** from multiple faces at once, 
    - The predicted label is displayed above each face in real-time.
 
 ---
-
