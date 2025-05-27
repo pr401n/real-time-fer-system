@@ -8,7 +8,7 @@ import time
 
 # Set page config
 st.set_page_config(
-    page_title="Real-time Emotion Detection",
+    page_title="Real-time FER",
     layout="wide",
     initial_sidebar_state="expanded"
 )
